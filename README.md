@@ -11,5 +11,6 @@ This is a fully functioning application, however the following things still need
   2)Re-do how the assets are stored, since there is currently not a good way to distinguish how much of each wrap is used for each job
   3)Learn and use a library which will allow the application to create nice official PDF receipts which the user can than print out
   4)Add a add staff member feature, as well as implement a hierarchy system for employees, which will allow certain employees to access certain features but not others
-In the screen shots folder there is a few screenshots of various aspects of the program
-A sample insert script which will serve as the databade schema has also been provided
+In the screen shots folder there is a few screenshots of various aspects of the program.
+A sample insert script which will serve as the databade schema has also been provided.
+In order to run the program as is, it will be necessary to have SQLite3 downloaded and run the insert script(L6WDB.sql) within a folder called Database, which is itself in the same directory as the rest of the files.
