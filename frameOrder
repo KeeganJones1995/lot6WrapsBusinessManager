@@ -1,0 +1,9 @@
+frame order:
+0 - login
+1 - home page
+2 - add choice
+3 - add customer
+4 - add vehicle
+5 - add inventory
+6 - edit
+7 - database
