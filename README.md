@@ -1,6 +1,6 @@
 # lot6WrapsBusinessManager
 Author: Keegan Mackenzie Smith Jones
-Created With QT Creator under Open Source Licensing Agreement
+Created With QT Creator under Open Source Licensing Agreement, as well as SQLite3
 A program designed to keep track of current and past jobs, and inventory for my friends vinyl wrapping business.
 This application allows the user to add, view, and update clients, their vehicles, job, and assets, through an easily manouverable UI.
 This application also allows the user to use other features such as searching, and printing of receipts.
@@ -12,3 +12,4 @@ This is a fully functioning application, however the following things still need
   3)Learn and use a library which will allow the application to create nice official PDF receipts which the user can than print out
   4)Add a add staff member feature, as well as implement a hierarchy system for employees, which will allow certain employees to access certain features but not others
 In the screen shots folder there is a few screenshots of various aspects of the program
+A sample insert script which will serve as the databade schema has also been provided
